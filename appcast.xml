@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ReachyHome</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 20 Jul 2026 16:18:41 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.1-2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://brygal1.github.io/ReachyHome-1.0.1-2.zip" length="6932663" type="application/octet-stream" sparkle:edSignature="LSJi/5A0s30GW8lCJNt1Zp7IObnvuwXoFRnmcREv75F4ggoYGRo9h3xlHcnUNeKPp8rgqaX4gV0vYkiHCgZTAg=="/>
+        </item>
+    </channel>
+</rss>
