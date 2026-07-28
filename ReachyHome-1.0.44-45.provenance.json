@@ -1,0 +1,14 @@
+{
+  "artifact": {
+    "filename": "ReachyHome-1.0.44-45.zip",
+    "sha256": "28d438d9b7db31fd4deb544f3db9c8bbba46bef4a12df81a263678d176ce7ecd",
+    "size_bytes": 8234433
+  },
+  "build_number": "45",
+  "bundle_identifier": "ca.northmortgage.reachy-home",
+  "generated_at": "2026-07-28T04:08:32.919186+00:00",
+  "marketing_version": "1.0.44",
+  "product": "Reachy Home",
+  "schema_version": 1,
+  "source_commit": "dedf9e11a6dd25101ebf817e6707e1126ed4e64d"
+}
