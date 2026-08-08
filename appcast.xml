@@ -3,13 +3,13 @@
     <channel>
         <title>ReachyHome</title>
         <item>
-            <title>1.0.49</title>
-            <pubDate>Fri, 07 Aug 2026 23:06:33 -0600</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
+            <title>1.0.50</title>
+            <pubDate>Sat, 08 Aug 2026 10:07:59 -0600</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.0.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.49-50.md</sparkle:releaseNotesLink>
-            <enclosure url="https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.49-50.zip" length="8315972" type="application/octet-stream" sparkle:edSignature="49MFE4xpExxHDI10vRv3NJFATkU1uY9B0z4YQn9RKGL4CrRL8qYV1o6bTrRDKAgphXSLjBPTJVR7yCi0Lr59CQ=="/>
+            <sparkle:releaseNotesLink>https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.50-51.md</sparkle:releaseNotesLink>
+            <enclosure url="https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.50-51.zip" length="8316028" type="application/octet-stream" sparkle:edSignature="ZbSk1RQSg31Z8MBiSQzK52NhaVDmyR49HN/ZOOip84jHg5KzrEKa3+7JlgIKil8p3QZTljgwpUb65TFbTlqcDA=="/>
         </item>
     </channel>
 </rss>
