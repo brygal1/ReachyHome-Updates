@@ -3,13 +3,13 @@
     <channel>
         <title>ReachyHome</title>
         <item>
-            <title>1.0.83</title>
-            <pubDate>Mon, 10 Aug 2026 21:24:54 -0600</pubDate>
-            <sparkle:version>84</sparkle:version>
-            <sparkle:shortVersionString>1.0.83</sparkle:shortVersionString>
+            <title>1.0.84</title>
+            <pubDate>Tue, 11 Aug 2026 09:26:08 -0600</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>1.0.84</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.83-84.md</sparkle:releaseNotesLink>
-            <enclosure url="https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.83-84.zip" length="8556505" type="application/octet-stream" sparkle:edSignature="yhCIPIQ0soznYFczNxo14JPuZ1YN6pXFwf77cOaxk79DlFhzZDh6lK2Wd02IfLAnHtpGip1+He0lLFaQKx+GDQ=="/>
+            <sparkle:releaseNotesLink>https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.84-85.md</sparkle:releaseNotesLink>
+            <enclosure url="https://brygal1.github.io/ReachyHome-Updates/ReachyHome-1.0.84-85.zip" length="8556508" type="application/octet-stream" sparkle:edSignature="wuw161UF5BaJcVIUYIpxENCgeLBr0Ds0+pzlEq0k/9sgjbyfeRKqrxJqolxkcvvdzZqEWpTsv6dH3jtPJWohAA=="/>
         </item>
     </channel>
 </rss>
